@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "105128474657",
+    "project_id": "doanvanhung-auth",
+    "storage_bucket": "doanvanhung-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105128474657:android:c4c87c555f9730c809cb60",
+        "android_client_info": {
+          "package_name": "com.example.doanvanhung_ktth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105128474657-7n1ms8rdj3nffae55s86f5jaau3u36vj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa4MUb12FPpGJFype6D04CXV-1iCgV_6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105128474657-7n1ms8rdj3nffae55s86f5jaau3u36vj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
